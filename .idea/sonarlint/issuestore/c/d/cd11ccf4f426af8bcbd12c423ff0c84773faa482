@@ -1,0 +1,4 @@
+
+3squid:S1643Y"Use a StringBuilder instead.(ù¬¦„
+Xsquid:S1126j"AReplace this if-then-else statement by a single return statement.(–òû“
+˜squid:S1186-"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¸ÿ…¼
